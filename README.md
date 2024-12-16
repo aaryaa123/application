@@ -56,6 +56,12 @@ The backend can be mocked and does not have to be implemented by you. However, i
 
 ### What privacy issues are related to this feature?
 
-- insert your answer here
+- Sensitive Data: Patient details (name, DOB, weight) and foot images are sensitive personal and health data, requiring strict protection.
+Unauthorized Access: Data must be secured to prevent unauthorized access or misuse.
+Data Transmission: Storing or transmitting data without encryption risks leaks.
+User Consent: Explicit consent is required for collecting and using personal data.
+Data Retention: Storing data indefinitely without a clear policy violates privacy norms.
+Misuse Potential: Data used beyond its intended purpose breaches trust and regulations.
+
 
 After completing the tasks please send us an invite to your forked repository (Nikolajewitsch, istiyaksiddiquee ).
