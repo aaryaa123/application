@@ -13,15 +13,24 @@ Please answer the following quesitons shortly inside this file.
 
 ### Why is health data such as this especially protected by the data protection and privacy regulations?
 
-- insert your answer here
+- Health data is especially protected because it is sensitive personal information that can directly impact an individual's privacy, dignity, and well-being if misused or disclosed. Regulations like GDPR and HIPAA ensure that such data is only collected, processed, and stored under strict conditions to prevent unauthorized access, misuse, or breaches.
 
 ### How do you provide animation logic in Unity-based game?
 
-- insert your answer here
+- Animation logic in Unity is typically provided using the Animator Controller, which allows developers to define animation states and transitions between them. Scripts in Unity (C#) can also control animations by triggering specific parameters in the Animator Controller or by directly manipulating properties using Animator methods like SetTrigger, Play, or CrossFade.
 
 ### Please explain how file permissions work in Linux. What different kinds of permissions are there? How are they assigned to a file or directory?
 
-- insert your answer here
+- File permissions in Linux define who can read, write, or execute a file or directory. There are three main types of permissions:
+
+Read (r): Permission to read the contents of a file or list the contents of a directory.
+Write (w): Permission to modify a file or create/delete files within a directory.
+Execute (x): Permission to execute a file as a program or access a directory.
+Permissions are assigned to three categories of users:
+
+Owner: The user who owns the file.
+Group: A group of users who share the same permissions.
+Others: All other users on the system.
 
 ## Part 2: Git skills
 
