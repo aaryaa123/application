@@ -21,11 +21,14 @@ Please answer the following quesitons shortly inside this file.
 
 ### Please explain how file permissions work in Linux. What different kinds of permissions are there? How are they assigned to a file or directory?
 
-- File permissions in Linux define who can read, write, or execute a file or directory. There are three main types of permissions:
+- File permissions in Linux define who can read, write, or execute a file or directory.
+
+ There are three main types of permissions:
 
 Read (r): Permission to read the contents of a file or list the contents of a directory.
 Write (w): Permission to modify a file or create/delete files within a directory.
 Execute (x): Permission to execute a file as a program or access a directory.
+
 Permissions are assigned to three categories of users:
 
 Owner: The user who owns the file.
