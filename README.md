@@ -17,7 +17,7 @@ Please answer the following quesitons shortly inside this file.
 
 ### How do you provide animation logic in Unity-based game?
 
-- Animation logic in Unity is typically provided using the Animator Controller, which allows developers to define animation states and transitions between them. Scripts in Unity (C#) can also control animations by triggering specific parameters in the Animator Controller or by directly manipulating properties using Animator methods like SetTrigger, Play, or CrossFade.
+- I don't have direct experience with Unity-based game development, but from what I understand, animation logic in Unity can be managed using the Animator Controller, which defines animation states and transitions. Developers can use C# scripts to control these animations by setting parameters in the Animator Controller or by calling methods like SetTrigger, Play, or CrossFade to manipulate animations dynamically. Additionally, timelines or custom animation curves can be used for more complex sequences.
 
 ### Please explain how file permissions work in Linux. What different kinds of permissions are there? How are they assigned to a file or directory?
 
